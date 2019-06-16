@@ -1,0 +1,4 @@
+Design principal-1 : Separate what varies and what constant
+Design principal-2 : Program for interface not for implementation
+Design principal-3 : Favor composition over inheritance
+
